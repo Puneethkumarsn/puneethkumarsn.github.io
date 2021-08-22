@@ -10,7 +10,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 ---
 
-🧰 Toolbox  
+### 🧰 Toolbox  
 
 **Hardware**
 
@@ -34,6 +34,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 <img src="https://github.com/puneethkumarsn/icons/blob/main/720px-Arduino_Logo.svg.png" alt="Arduino" height="50" span title="Arduino with Love" /> <img src="https://github.com/puneethkumarsn/icons/blob/main/RPi-Logo-Reg-SCREEN.webp" height="50" span title="Raspberry Pi, and Pi Pico" /> <img src="https://github.com/puneethkumarsn/icons/blob/main/Matlab_Logo.png" alt="Matlab" height="50" span title="Matlab"/> <img src="https://github.com/puneethkumarsn/icons/blob/main/Gnu-octave-logo.svg.png" alt="GNU Octave" height="50" span title="Octave"/> <img src="https://github.com/puneethkumarsn/icons/blob/main/20170721155035_PSoC-Lego.webp" alt="Cypress PSoC" height="50" span title="PSoC Cypress" /> <img src="https://github.com/puneethkumarsn/icons/blob/main/cdnlogo_tinkercad.svg" alt="Tinkercad for Arduino" height="50" span title="Tinkercad for Arduino"/> <img src="https://avatars.githubusercontent.com/u/56967200?s=280&v=4" alt="Wokwi" height="50" span title="Wokwi Arduino Simulator" /> 
 
+---
 
 
 <!--
