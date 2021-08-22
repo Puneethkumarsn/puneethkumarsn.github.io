@@ -2,7 +2,7 @@
 
 ---
 
-A Hardware developer with specialisation in microcontrollers based system design and qualification using thte tools listed in the **toolbox** below!  
+A Hardware developer with specialisation in microcontrollers based system design and qualification using the tools listed in the **toolbox** below!  
 
 I have ample interest in both hardware design and firmware development. For the past 11 years, I have worked with several MCUs and DSPs from Analog devices, ST, Renesas, TI, NXP, ATMEL, Cypress and more! 
 
