@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="30px"> I am Puneeth!
 
 <!--
 **puneethkumarsn/puneethkumarsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
