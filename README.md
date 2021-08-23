@@ -24,7 +24,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 **Simulation**
 
-<img src="https://github.com/puneethkumarsn/icons/blob/main/LTSpice-logo.jpg" alt="LTSpice" height="50" span title="LTSpice fron Analog Devices"/> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/PSPICE.png" alt="PSpice" height="50" span title="PSpice from Cadence"/>&nbsp;&nbsp&nbsp;
+<img src="https://github.com/puneethkumarsn/icons/blob/main/LTSpice-logo.jpg" alt="LTSpice" height="50" span title="LTSpice fron Analog Devices"/> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/PSPICE.png" alt="PSpice" height="50" span title="PSpice from Cadence"/>&nbsp;&nbsp;&nbsp;
 
 **IDE**
 
