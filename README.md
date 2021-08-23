@@ -14,8 +14,8 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 **Hardware**
 
-<img src="https://github.com/puneethkumarsn/icons/blob/main/eagle.png" alt="AutoDesk Eagle" height="50" span title="AutoDesk Eagle"/>   <img src="https://github.com/puneethkumarsn/icons/blob/main/KiCad-Logo.svg.png" alt="KiCAD" height="50" span title="KiCAD" />   <img src="https://github.com/puneethkumarsn/icons/blob/main/altium.png" alt="Altium" height="50" span title="Altium Circuit Designer" />
-<img src="https://github.com/puneethkumarsn/icons/blob/main/circuit%20studio.jpg" alt="Circuit Studio" height="50" span title="Circuit Studio"  /> <img src="https://github.com/puneethkumarsn/icons/blob/main/zuken-flag.png" alt text="Zuken" height="50" span title="Zuken" /> <img src="https://github.com/puneethkumarsn/icons/blob/main/easyeda-thumbnail.png" alt="EasyEDA" height="50" span title="EasyEDA"  /> <img src="https://github.com/puneethkumarsn/icons/blob/main/orcad.png" alt="Orcad" height="50" span title="OrCAD"  />
+<img src="https://github.com/puneethkumarsn/icons/blob/main/eagle.png" alt="AutoDesk Eagle" height="50" span title="AutoDesk Eagle"/> &nbsp;&nbsp;  <img src="https://github.com/puneethkumarsn/icons/blob/main/KiCad-Logo.svg.png" alt="KiCAD" height="50" span title="KiCAD" /> &nbsp;&nbsp;  <img src="https://github.com/puneethkumarsn/icons/blob/main/altium.png" alt="Altium" height="50" span title="Altium Circuit Designer" />&nbsp;&nbsp;
+<img src="https://github.com/puneethkumarsn/icons/blob/main/circuit%20studio.jpg" alt="Circuit Studio" height="50" span title="Circuit Studio"  /> &nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/zuken-flag.png" alt text="Zuken" height="50" span title="Zuken" /> <img src="https://github.com/puneethkumarsn/icons/blob/main/easyeda-thumbnail.png" alt="EasyEDA" height="50" span title="EasyEDA"  /> &nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/orcad.png" alt="Orcad" height="50" span title="OrCAD"  />&nbsp;&nbsp;
 
 
 **Firmware**
