@@ -15,7 +15,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 **Hardware**
 
 <img src="https://github.com/puneethkumarsn/icons/blob/main/eagle.png" alt="AutoDesk Eagle" height="50" span title="AutoDesk Eagle"/> &nbsp;&nbsp; &nbsp; <img src="https://github.com/puneethkumarsn/icons/blob/main/KiCad-Logo.svg.png" alt="KiCAD" height="50" span title="KiCAD" /> &nbsp;&nbsp;&nbsp;  <img src="https://github.com/puneethkumarsn/icons/blob/main/altium.png" alt="Altium" height="50" span title="Altium Circuit Designer" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/puneethkumarsn/icons/blob/main/circuit%20studio.jpg" alt="Circuit Studio" height="50" span title="Circuit Studio"  /> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/zuken-flag.png" alt text="Zuken" height="50" span title="Zuken" /> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/easyeda-thumbnail.png" alt="EasyEDA" height="50" span title="EasyEDA"  /> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/orcad.png" alt="Orcad" height="50" span title="OrCAD"  />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/puneethkumarsn/icons/blob/main/circuit%20studio.jpg" alt="Circuit Studio" height="50" span title="Circuit Studio"  /> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/zuken-flag.png" alt text="Zuken" height="50" span title="Zuken" /> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/easyeda-thumbnail.png" alt="EasyEDA" height="50" span title="EasyEDA"  /> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/orcad.png" alt="Orcad" height="50" span title="OrCAD"  /> &nbsp;&nbsp;&nbsp;
 
 
 **Firmware**
@@ -24,7 +24,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 **Simulation**
 
-<img src="https://github.com/puneethkumarsn/icons/blob/main/LTSpice-logo.jpg" alt="LTSpice" height="50" span title="LTSpice fron Analog Devices"/> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/PSPICE.png" alt="PSpice" height="50" span title="PSpice from Cadence"/>&nbsp;&nbsp&nbsp;;
+<img src="https://github.com/puneethkumarsn/icons/blob/main/LTSpice-logo.jpg" alt="LTSpice" height="50" span title="LTSpice fron Analog Devices"/> &nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/PSPICE.png" alt="PSpice" height="50" span title="PSpice from Cadence"/>&nbsp;&nbsp&nbsp;
 
 **IDE**
 
