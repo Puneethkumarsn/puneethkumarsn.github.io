@@ -20,7 +20,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 **Firmware**
 
-<img src="https://github.com/puneethkumarsn/icons/blob/main/C_Programming_Language.svg.png" alt="C" height="50" span title="Embedded C Programming" />&nbsp;&nbsp; &nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/C%2B%2B_Logo.svg.png" alt="C++" height="50" span title="Basic C++"/>&nbsp;&nbsp;&nbsp; <img src="https://github.com/puneethkumarsn/icons/blob/main/-Python-logo-notext.svg.png" alt="Python" height="50" span title="Python" />&nbsp;&nbsp; &nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/MicroPython_new_logo.svg.png" alt="MicroPython" height="50" span title="Micro Python/Circuit Python"/> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/puneethkumarsn/icons/blob/main/C_Programming_Language.svg.png" alt="C" height="50" span title="Embedded C Programming" />&nbsp;&nbsp; &nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/C%2B%2B_Logo.svg.png" alt="C++" height="50" span title="Basic C++"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/WINWORD_ePzVqMe7vi.png" alt="Assembly" height="50" span title="Assembly Langauge"/> &nbsp;&nbsp;&nbsp; <img src="https://github.com/puneethkumarsn/icons/blob/main/-Python-logo-notext.svg.png" alt="Python" height="50" span title="Python" />&nbsp;&nbsp; &nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/MicroPython_new_logo.svg.png" alt="MicroPython" height="50" span title="Micro Python/Circuit Python"/> &nbsp;&nbsp;&nbsp;
 
 **Simulation**
 
