@@ -28,7 +28,7 @@ I enjoy tinkering projects using open-source hardware that keeps me updated with
 
 **IDE**
 
-<img src="https://github.com/puneethkumarsn/icons/blob/main/Microsoft.VisualStudio.Services.Icons.Default.png" alt="IAR" height="50" span title="IAR" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/ccstudio_ccs_256.jpg" alt="Code Composer Studio" height="50" span title="Code Composer Studio" />&nbsp;&nbsp;&nbsp; <img src="https://github.com/puneethkumarsn/icons/blob/main/VisualDSP%2B%2B.jpg" alt="VisualDSP" height="50" span title="VisualDSP from Analog Devices"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/puneethkumarsn/icons/blob/main/Microsoft.VisualStudio.Services.Icons.Default.png" alt="IAR" height="50" span title="IAR" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/ccstudio_ccs_256.jpg" alt="Code Composer Studio" height="50" span title="Code Composer Studio" />&nbsp;&nbsp;&nbsp; <img src="https://github.com/puneethkumarsn/icons/blob/main/VisualDSP%2B%2B.jpg" alt="VisualDSP" height="50" span title="VisualDSP from Analog Devices"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/puneethkumarsn/icons/blob/main/mplab-xide.png" alt="MPLAB" height="50" span title="MPLAB-X"/>&nbsp;&nbsp;&nbsp;
 
 **Misc** 
 
